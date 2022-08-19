@@ -1,0 +1,15 @@
+D:\Git2\AlgoExpert\AlgoExpert\bin\Debug\net6.0\AlgoExpert.exe
+D:\Git2\AlgoExpert\AlgoExpert\bin\Debug\net6.0\AlgoExpert.deps.json
+D:\Git2\AlgoExpert\AlgoExpert\bin\Debug\net6.0\AlgoExpert.runtimeconfig.json
+D:\Git2\AlgoExpert\AlgoExpert\bin\Debug\net6.0\AlgoExpert.dll
+D:\Git2\AlgoExpert\AlgoExpert\bin\Debug\net6.0\AlgoExpert.pdb
+D:\Git2\AlgoExpert\AlgoExpert\obj\Debug\net6.0\AlgoExpert.csproj.AssemblyReference.cache
+D:\Git2\AlgoExpert\AlgoExpert\obj\Debug\net6.0\AlgoExpert.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git2\AlgoExpert\AlgoExpert\obj\Debug\net6.0\AlgoExpert.AssemblyInfoInputs.cache
+D:\Git2\AlgoExpert\AlgoExpert\obj\Debug\net6.0\AlgoExpert.AssemblyInfo.cs
+D:\Git2\AlgoExpert\AlgoExpert\obj\Debug\net6.0\AlgoExpert.csproj.CoreCompileInputs.cache
+D:\Git2\AlgoExpert\AlgoExpert\obj\Debug\net6.0\AlgoExpert.dll
+D:\Git2\AlgoExpert\AlgoExpert\obj\Debug\net6.0\refint\AlgoExpert.dll
+D:\Git2\AlgoExpert\AlgoExpert\obj\Debug\net6.0\AlgoExpert.pdb
+D:\Git2\AlgoExpert\AlgoExpert\obj\Debug\net6.0\AlgoExpert.genruntimeconfig.cache
+D:\Git2\AlgoExpert\AlgoExpert\obj\Debug\net6.0\ref\AlgoExpert.dll
