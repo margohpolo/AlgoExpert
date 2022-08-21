@@ -17,9 +17,13 @@ namespace AlgoExpert
             //TwoNmbrSum twoNmbrSum = new TwoNmbrSum();
             //twoNmbrSum.Run();
 
-            SortSqArray sortSqArray = new SortSqArray();
-            sortSqArray.Run();
+            //SortSqArray sortSqArray = new SortSqArray();
+            //sortSqArray.Run();
 
+            TourneyWinner tourneyWinner = new TourneyWinner();
+            tourneyWinner.Run();
+
+            //TO-DO: Refactor to use xUnit to run unit tests instead of running from Main()
 
         }
     }
